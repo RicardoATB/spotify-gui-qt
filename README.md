@@ -4,4 +4,4 @@
 
 **PCB already designed**:
 
-<img src="https://github.com/RicardoATB/spotify-gui-qt/blob/main/HARDWARE/board-top.png" width="80%" height="80%" />
+<img src="https://github.com/RicardoATB/spotify-gui-qt/blob/main/HARDWARE/board-top.png" width="100%" height="100%" />
