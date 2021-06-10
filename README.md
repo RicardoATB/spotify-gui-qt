@@ -1,6 +1,6 @@
-**[under development)**
+**[under development)**<br /><br />
 
-Use of C++ to implement a GUI to interact with Spotify API in a Linux environment (BeagleBone Black + custom PCB used as DAC/Amp to allow the embedded system to output audio through a USB connection)
+**Project Description**: Use of C++ to implement a GUI to interact with Spotify API in a Linux environment (BeagleBone Black + custom PCB used as DAC/Amp to allow the embedded system to output audio through a USB connection)<br /><br />
 
-Hardware 100% done.
+**PCB already designed**:
 
